@@ -1,5 +1,6 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "siad",
+  "citation": "Species Interactions of Australia Database (SIAD): Helping us to understand species interactions in Australia and beyond. http://www.discoverlife.org/siad/ .",
   "shouldResolveReferences": false
 }
